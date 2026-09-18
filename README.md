@@ -49,8 +49,6 @@ The dashboard transforms business data into clear and actionable insights, helpi
 
 This dashboard demonstrates how Business Intelligence and data visualization can transform raw business data into actionable insights, helping organizations monitor performance, identify trends, and make data-driven decisions.
 
-## 👨‍💻 Author
 
-**Yacine Kheribi**
 
 Data Analytics | Power BI | Business Intelligence
