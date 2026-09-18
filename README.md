@@ -39,11 +39,11 @@ The dashboard transforms business data into clear and actionable insights, helpi
 
 ### Sales Performance Dashboard
 
-![Power BI Sales Dashboard](visualization 2 Power BI.png)
+![Power BI Sales Dashboard](images/visualization 1 Power BI.png)
 
 ### Business Performance Dashboard
 
-![Power BI Business Dashboard](visualization 1 Power BI.png)
+![Power BI Business Dashboard](images/visualization 2 Power BI.png)
 
 ## 💡 Business Value
 
