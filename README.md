@@ -39,13 +39,11 @@ The dashboard transforms business data into clear and actionable insights, helpi
 
 ### Sales Performance Dashboard
 
-![Power-BI-Sales-Business-Performance-Dashboard-American-Enterprise
-](images/visualization 1 Power BI.png)
+![Power-BI-Sales-Business-Performance-Dashboard-American-Enterprise](images/visualization 1 Power BI.png)
 
 ### Business Performance Dashboard
 
-![Power-BI-Sales-Business-Performance-Dashboard-American-Enterprise
-](images/visualization 2 Power BI.png)
+![Power-BI-Sales-Business-Performance-Dashboard-American-Enterprise](images/visualization 2 Power BI.png)
 
 ## 💡 Business Value
 
